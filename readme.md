@@ -1,3 +1,3 @@
-application namw: git home
+application name: git home
 
 playform: linux
